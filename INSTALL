@@ -1,0 +1,9 @@
+Building WillowCoin
+
+See doc/readme-qt.rst for instructions on building WillowCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WillowCoin.
+
+See doc/build-*.txt for instructions on building willowcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of WillowCoin.
